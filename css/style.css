@@ -19,7 +19,7 @@ header i{
     margin-left: 5mm;
 }
 
-.avatar-picture {
+img{
     width: 250px;
     margin: auto;
     display: block;
