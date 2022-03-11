@@ -8,7 +8,8 @@
 header{
     Position:running(Myheader); 
     text-align:center;
-    font-size:xx-large;     
+    font-size:large;
+          
 }
 
 header p i:first-of-type{
@@ -27,7 +28,7 @@ img{
 
 section{
     break-inside:avoid;
-    padding-left: 250PX;
+    padding-left: 20PX;
 }
 
 h1, h3{
